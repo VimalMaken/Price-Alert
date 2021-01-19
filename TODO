@@ -1,0 +1,9 @@
+Add Completed Priorities
+=> If price is null, we're just checking if it's in stock
+Send an email/SMS and calling (HIGH: Discord and text, MEDIUM: text, LOW: email)
+Move to completed once the action is done
+If there is a pricing error (example: Deal over 50%, send directly to high)
+Message back something and it gets moved back from completed to in progress
+_______________________
+Rotate the IPs through different proxy servers if you need to. You can also deploy a consumer-grade VPN service with IP rotation capabilities.
+    Connect to different proxies
